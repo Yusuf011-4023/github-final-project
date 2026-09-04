@@ -10,4 +10,6 @@ Output
    simple interest = p*t*r/100
 
 
-#https://github.com/Yusuf011-4023/github-final-project/blob/main/README.md
+# https://github.com/Yusuf011-4023/github-final-project/blob/main/README.md
+
+# https://github.com/Yusuf011-4023/github-final-project/blob/main/LICENSE
